@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+NSCH video
+</title>
+</head>
+<body>
+<BODY BGCOLOR="#6495ED">
+<center>
+<h4>Click <A HREF="index.html">here</A> to go back to the homepage.</h4>
+<hr>
+<br>
+<h1>Example Footage</h1>
+<h2>Created by Jaden S. President of the NWSP.</h2>
+<iframe width="460" height="215" src="https://www.youtube.com/embed/-H0kFeok4k8?si=Ohsn231B9OroITUF" 
+title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<h3>Description</h3>
+<p>INSERT DESCRIPTION HERE</P>
+<br>
+</center>
+</body>
+</html>
